@@ -13,4 +13,4 @@ Hello,World! Hello,Git!
 Hello,World! Hello,Git!
 Hello,World! Hello,Git!
 Hello,World! Hello,Git! Hello,Git! Hello，master!
-Hello,World! Hello,Git!
+Hello,World! Hello,Git! Hello,Git! Hello,hot-fix!
